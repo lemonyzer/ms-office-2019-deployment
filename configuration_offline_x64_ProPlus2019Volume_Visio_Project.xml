@@ -1,0 +1,15 @@
+<Configuration>
+  <Add SourcePath="T:\IT\_Images\_Office 2019\Office Deployment Tool\officedeploymenttool_13530-20376\x64_full" OfficeClientEdition="64" Channel="PerpetualVL2019">
+    <Product ID="ProPlus2019Volume">
+      <Language ID="de-de" />
+    </Product>
+    <Product ID="VisioPro2019Volume">
+      <Language ID="de-de" />
+    </Product>
+    <Product ID="ProjectPro2019Volume">
+      <Language ID="de-de" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Logging Level="Standard" Path="%temp%" />
+</Configuration>
